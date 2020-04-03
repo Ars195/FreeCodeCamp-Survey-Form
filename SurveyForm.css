@@ -118,6 +118,11 @@ textarea {
   outline: 0;
   box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
 }
+.clue {
+  margin-left: 0.25rem;
+  font-size: 0.9rem;
+  color: #e4e4e4;
+}
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
