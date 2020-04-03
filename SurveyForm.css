@@ -72,3 +72,9 @@ p {
   width: 100%;
   margin: 3.125rem auto 0 auto;
 }
+
+form {
+  background: var(--color-darkblue-alpha);
+  padding: 2.5rem 0.625rem;
+  border-radius: 0.25rem;
+}
